@@ -35,7 +35,7 @@ __AMD__
 This library is published as UMD format, so theoretically it can be done. If
 you figure it out, please submit a pull request. You'll be famous!
 
-__Global__
+__Global__ (Boo, hiss!)
 
 index.html
 
