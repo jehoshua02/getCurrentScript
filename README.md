@@ -2,12 +2,15 @@
 
 Get the currently executing script in the browser.
 
+## demo
+
+See simple [demo](https://jehoshua02.github.io/getCurrentScript/).
+
 ## bower
 
 ```shell
 bower install --save get-current-script
 ```
-
 
 ## npm
 
