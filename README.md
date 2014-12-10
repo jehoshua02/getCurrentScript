@@ -23,7 +23,7 @@ npm install --save get-current-script
 __CommonJS__
 
 ```javascript
-var currentScript = require('getCurrentScript')();
+var currentScript = require('get-current-script')();
 ```
 
 ---
