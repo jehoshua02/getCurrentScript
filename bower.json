@@ -15,5 +15,11 @@
     "gulpfile.js",
     "src"
   ],
+  "keywords": [
+    "umd",
+    "browser",
+    "current",
+    "script"
+  ],
   "main": "dist/getCurrentScript.js"
 }

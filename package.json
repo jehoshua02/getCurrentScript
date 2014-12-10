@@ -1,6 +1,6 @@
 {
   "name": "getCurrentScript",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Get the currently executing script in the browser.",
   "main": "dist/getCurrentScript.js",
   "scripts": {
