@@ -1,0 +1,31 @@
+{
+  "name": "getCurrentScript",
+  "version": "1.0.0",
+  "description": "Get the currently executing script in the browser.",
+  "main": "dist/getCurrentScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jehoshua02/getCurrentScript.git"
+  },
+  "author": "jehoshua02 <jehoshua02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jehoshua02/getCurrentScript/issues"
+  },
+  "keywords": [
+    "umd",
+    "browser",
+    "current",
+    "script"
+  ],
+  "homepage": "https://github.com/jehoshua02/getCurrentScript",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-gh-pages": "^0.4.0",
+    "gulp-webpack": "^1.1.0",
+    "require-dir": "^0.1.0"
+  }
+}
